@@ -1,7 +1,7 @@
 #baseURL = 'https://abdoghazy.github.io/'
 baseURL = "https://abdoghazy2015.github.io/"
 locale = 'en-us'
-title = 'abdoghazy'
+title = 'abdoghazy's blog'
 theme = 'PaperMod'
 
 [params]
